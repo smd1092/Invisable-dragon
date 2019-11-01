@@ -3,8 +3,8 @@
 #include <GL/glut.h>
 
 void drawSphere(){
-	float color[3] = {1,0,0};
-	float pos[3] = {-3,0,1};
+	float color[3] = {0,0,1};
+	float pos[3] = {-1.5,0,0};
 	float size = 0.5;
 
 	glPushMatrix();
