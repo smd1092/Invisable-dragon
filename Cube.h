@@ -3,8 +3,8 @@
 
 
 void drawCube(){
-	float color[3] = {1,1,0};
-	float size = 1;	
+	float color[3] = {0,1,0};
+	float size = 2;	
 	float pos[3] = {3,0,0};	
 
 	glPushMatrix();
