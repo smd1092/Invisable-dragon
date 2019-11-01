@@ -5,7 +5,7 @@
 void drawSphere(){
 	float color[3] = {1,0,0};
 	float pos[3] = {-1.5,0,0};
-	float size = 0.5;
+	float size = 1;
 
 	glPushMatrix();
 		glTranslatef(pos[0], pos[1], pos[2]);
